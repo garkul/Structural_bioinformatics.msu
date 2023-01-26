@@ -1,1 +1,1 @@
-# Structural_bioinformatics.msu
+# Structura bioinformatics.msu
